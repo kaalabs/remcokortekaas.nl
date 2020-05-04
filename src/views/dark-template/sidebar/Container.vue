@@ -79,12 +79,12 @@ export default {
             {
               name: 'Email',
               icon: 'mdi-email',
-              text: 'remco@kaalabs.nl',
+              text: 'mail@remcokortekaas.nl',
             },
             {
               name: 'Website',
               icon: 'mdi-web',
-              text: 'www.kaalabs.nl',
+              text: 'www.remcokortekaas.nl',
             },
             {
               name: 'Birth Date',
